@@ -1,4 +1,3 @@
-# Voice of Terra · 孤星配音分站
+# Voice of Terra · vot-audio-2023-05-01
 
-本仓库存放《孤星》的凯尔希音色 MP3，供[主网页](https://luoul-123.github.io/voice-of-terra-for-arknights/)读取。
-音频为非官方同人合成内容；剧情和角色版权归原权利人所有。
+更新时间：2026-11-14 Sidestory《孤星》剧情配音静态文件。阅读请前往主站。 这是非官方同人项目，音频和角色内容归其相应权利人所有。
